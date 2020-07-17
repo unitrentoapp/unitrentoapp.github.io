@@ -1,0 +1,18 @@
+{
+    "currentVersion": "1.2.2",
+    "offline": false,
+    "updateForced": false,
+    "updateForcedMessage": "",
+    "offlineMessage": "",
+    "offlineFeatures": {
+      "carriera": false,
+      "comunicazione": false,
+      "opera": false,
+      "biblioteca": false,
+      "orariAule": false,
+      "rilevazionePresenza": false,
+      "rubrica": false,
+      "mappa": false,
+      "accessi": false
+    }
+}
