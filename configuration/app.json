@@ -5,7 +5,7 @@
     "updateForcedMessage": "",
     "offlineMessage": "",
     "offlineFeatures": {
-      "carriera": true,
+      "carriera": false,
       "comunicazione": false,
       "opera": false,
       "biblioteca": false,
