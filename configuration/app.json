@@ -11,7 +11,7 @@
       "biblioteca": false,
       "orariAule": false,
       "rilevazionePresenza": false,
-      "rubrica": false,
+      "rubrica": true,
       "mappa": false,
       "accessi": false
     }
