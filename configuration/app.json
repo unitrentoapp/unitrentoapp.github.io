@@ -6,7 +6,7 @@
     "offlineMessage": "",
     "offlineFeatures": {
       "carriera": false,
-      "comunicazione": false,
+      "comunicazione": true,
       "opera": false,
       "biblioteca": false,
       "orariAule": false,
