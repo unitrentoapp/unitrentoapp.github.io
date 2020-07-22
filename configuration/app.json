@@ -6,12 +6,12 @@
     "offlineMessage": "",
     "offlineFeatures": {
       "carriera": false,
-      "comunicazione": false,
+      "comunicazione": true,
       "opera": false,
       "biblioteca": false,
       "orariAule": false,
       "rilevazionePresenza": false,
-      "rubrica": true,
+      "rubrica": false,
       "mappa": false,
       "accessi": false
     }
