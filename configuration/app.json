@@ -1,8 +1,8 @@
 {
     "currentVersion": "1.2.2",
-    "offline": false,
-    "updateForced": true,
-    "updateForcedMessage": "Aggiorna subito",
+    "offline": true,
+    "updateForced": false,
+    "updateForcedMessage": "",
     "offlineMessage": "",
     "offlineFeatures": {
       "carriera": false,
