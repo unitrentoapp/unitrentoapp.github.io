@@ -1,8 +1,8 @@
 {
     "currentVersion": "1.3.2",
     "offline": false,
-    "updateForced": false,
-    "updateForcedMessage": "",
+    "updateForced": true,
+    "updateForcedMessage": "Aggiorna subito",
     "offlineMessage": "",
     "offlineFeatures": {
       "carriera": false,
@@ -11,7 +11,7 @@
       "biblioteca": false,
       "orariAule": false,
       "rilevazionePresenza": false,
-      "rubrica": true,
+      "rubrica": false,
       "mappa": false,
       "accessi": false
     }
