@@ -9,7 +9,7 @@
       "comunicazione": false,
       "opera": false,
       "biblioteca": false,
-      "orariAule": false,
+      "orariAule": true,
       "rilevazionePresenza": false,
       "rubrica": false,
       "mappa": false,
