@@ -1,9 +1,9 @@
 {
     "currentVersion": "1.2.2",
-    "offline": false,
+    "offline": true,
     "updateForced": false,
     "updateForcedMessage": "",
-    "offlineMessage": "",
+    "offlineMessage": "I servizi di UniTrentoApp non sono al momento disponibili a causa di un importante intervento di manutenzione all’infrastruttura IT. Le funzionalità verranno riattivate dalle ore 8.00 di mercoledì 9 settembre.",
     "offlineFeatures": {
       "carriera": false,
       "comunicazione": false,
