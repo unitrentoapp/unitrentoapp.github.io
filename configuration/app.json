@@ -1,4 +1,12 @@
 {
+    "id": "it.unitn.unitrentoapp",
+    "logger": true,
+    "loggerLevel": 3,
+    "baseUrl": "https://webapi.unitn.it/",
+
+    "annoAccademico": 2020,
+    "notificationLimit": 25,
+    
     "currentVersion": "1.2.3",
     "offline": false,
     "updateForced": true,
