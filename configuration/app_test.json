@@ -1,8 +1,8 @@
 {
-    "id": 'it.unitn.unitrentoapp',
+    "id": "it.unitn.unitrentoapp",
     "logger": true,
     "loggerLevel": 1,
-    "baseUrl": 'https://webapitest.unitn.it/',
+    "baseUrl": "https://webapitest.unitn.it/",
 
     "annoAccademico": 2020,
     "notificationLimit": 25,
