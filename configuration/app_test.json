@@ -8,7 +8,7 @@
     "notificationLimit": 25,
 
     "currentVersion": "1.2.4",
-    "offline": false,
+    "offline": true,
     "updateForced": false,
     "updateForcedMessage": "",
     "offlineMessage": "",
