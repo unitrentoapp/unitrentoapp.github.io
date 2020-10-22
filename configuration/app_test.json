@@ -16,7 +16,7 @@
       "carriera": false,
       "comunicazione": false,
       "opera": false,
-      "biblioteca": false,
+      "biblioteca": true,
       "orariAule": false,
       "rilevazionePresenza": false,
       "rubrica": false,
