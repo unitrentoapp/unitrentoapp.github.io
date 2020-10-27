@@ -7,9 +7,9 @@
     "annoAccademico": 2020,
     "notificationLimit": 25,
 
-    "currentVersion": "1.2.6",
+    "currentVersion": "1.2.5",
     "offline": false,
-    "updateForced": true,
+    "updateForced": false,
     "updateForcedMessage": "",
     "offlineMessage": "",
     "offlineFeatures": {
