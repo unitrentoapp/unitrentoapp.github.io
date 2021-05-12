@@ -2,6 +2,7 @@
     "id": "it.unitn.unitrentoapp",
     "logger": true,
     "loggerLevel": 3,
+    "loggerHistory": true,
     "baseUrl": "https://webapi.unitn.it/",
 
     "annoAccademico": 2020,
