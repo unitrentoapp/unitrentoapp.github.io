@@ -9,10 +9,10 @@
     "notificationLimit": 25,
     
     "currentVersion": "1.2.9",
-    "offline": true,
+    "offline": false,
     "updateForced": false,
     "updateForcedMessage": "",
-    "offlineMessage": "I servizi di UniTrentoApp non sono al momento disponibili. Stiamo lavorando per ripristinarli il prima possibile.",
+    "offlineMessage": "",
     "offlineFeatures": {
       "carriera": false,
       "comunicazione": false,
