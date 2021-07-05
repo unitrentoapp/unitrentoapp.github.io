@@ -14,7 +14,7 @@
     "updateForcedMessage": "",
     "offlineMessage": "",
     "offlineFeatures": {
-      "carriera": false,
+      "carriera": true,
       "comunicazione": false,
       "opera": false,
       "biblioteca": false,
