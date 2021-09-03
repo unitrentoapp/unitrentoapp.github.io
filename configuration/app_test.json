@@ -18,7 +18,7 @@
         "carrieraLibretto": { "offline": false, "menu": true },
         "carrieraBadge": { "offline": false, "menu": false },
         "carrieraEsiti": { "offline": false, "menu": false },
-        "carrieraPrenotazioni": { "offline": false, "menu": true },
+        "carrieraPrenotazioni": { "offline": false, "menu": false },
         "carrieraTasse": { "offline": false, "menu": false },
         "comunicazione": { "offline": false, "menu": true },
         "orariAuleAule": { "offline": false, "menu": true },
