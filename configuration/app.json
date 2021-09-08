@@ -27,7 +27,7 @@
     "features": {
         "accessi": { "offline": false, "menu": true },
         "carrieraLibretto": { "offline": false, "menu": true },
-        "carrieraBadge": { "offline": false, "menu": true },
+        "carrieraBadge": { "offline": false, "menu": false },
         "carrieraEsiti": { "offline": false, "menu": true },
         "carrieraPrenotazioni": { "offline": false, "menu": true },
         "carrieraTasse": { "offline": false, "menu": false },
@@ -35,7 +35,7 @@
         "orariAuleAule": { "offline": false, "menu": true },
         "orariAuleOrari": { "offline": false, "menu": true },
         "rubrica": { "offline": false, "menu": true },
-        "cedolini": { "offline": false, "menu": true },
+        "cedolini": { "offline": false, "menu": false },
         "biblioteca": { "offline": false, "menu": true },
         "opera": { "offline": false, "menu": true }
     }
