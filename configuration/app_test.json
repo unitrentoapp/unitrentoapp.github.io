@@ -24,7 +24,7 @@
         "orariAuleAule": { "offline": false, "menu": true },
         "orariAuleOrari": { "offline": false, "menu": true },
         "rubrica": { "offline": false, "menu": true },
-        "cedolini": { "offline": false, "menu": false },
+        "cedolini": { "offline": false, "menu": true },
         "biblioteca": { "offline": false, "menu": true },
         "opera": { "offline": false, "menu": true }
     }
