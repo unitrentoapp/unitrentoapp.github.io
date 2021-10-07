@@ -3,7 +3,7 @@
     "logger": true,
     "loggerLevel": 1,
     "loggerHistory": true,
-    "baseUrl": "https://webapitest.unitn.it/",
+    "baseUrl": "https://webapi.unitn.it/",
 
     "annoAccademico": 2020,
     "notificationLimit": 25,
