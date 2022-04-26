@@ -14,7 +14,7 @@
     "updateForcedMessage": "",
     "offlineMessage": "",
     "features": {
-        "accessi": { "offline": false, "menu": false },
+        "accessi": { "offline": true, "menu": false },
         "carrieraLibretto": { "offline": false, "menu": true },
         "carrieraBadge": { "offline": false, "menu": true },
         "carrieraEsiti": { "offline": false, "menu": true },
