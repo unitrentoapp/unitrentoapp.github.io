@@ -19,14 +19,14 @@
         "carrieraBadge": { "offline": false, "menu": true },
         "carrieraEsiti": { "offline": false, "menu": true },
         "carrieraPrenotazioni": { "offline": false, "menu": true },
-        "carrieraTasse": { "offline": false, "menu": true },
+        "carrieraTasse": { "offline": false, "menu": false },
         "comunicazione": { "offline": false, "menu": true },
-        "cus": { "offline": false, "menu": false },
         "orariAuleAule": { "offline": false, "menu": true },
         "orariAuleOrari": { "offline": false, "menu": true },
         "rubrica": { "offline": false, "menu": true },
         "cedolini": { "offline": false, "menu": true },
         "biblioteca": { "offline": false, "menu": true },
-        "opera": { "offline": false, "menu": true }
+        "opera": { "offline": false, "menu": true },
+        "unitrentosport": { "offline": false, "menu": true },
     }
 }
