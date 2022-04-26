@@ -21,6 +21,7 @@
         "carrieraPrenotazioni": { "offline": false, "menu": true },
         "carrieraTasse": { "offline": false, "menu": true },
         "comunicazione": { "offline": false, "menu": true },
+        "cus": { "offline": false, "menu": false },
         "orariAuleAule": { "offline": false, "menu": true },
         "orariAuleOrari": { "offline": false, "menu": true },
         "rubrica": { "offline": false, "menu": true },
