@@ -10,7 +10,7 @@
     
     "currentVersion": "1.3.2",
     "offline": false,
-    "updateForced": false,
+    "updateForced": true,
     "updateForcedMessage": "",
     "offlineMessage": "",
     "offlineFeatures": {
