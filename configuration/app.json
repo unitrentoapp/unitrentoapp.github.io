@@ -22,7 +22,7 @@
       "rilevazionePresenza": false,
       "rubrica": false,
       "mappa": false,
-      "accessi": false
+      "accessi": true
     },
     "features": {
         "accessi": { "offline": true, "menu": false },
