@@ -9,7 +9,7 @@
     "notificationLimit": 25,
     
     "currentVersion": "1.3.2",
-    "offline": false,
+    "offline": true,
     "updateForced": true,
     "updateForcedMessage": "",
     "offlineMessage": "",
