@@ -9,10 +9,10 @@
     "notificationLimit": 25,
     
     "currentVersion": "1.3.2",
-    "offline": true,
+    "offline": false,
     "updateForced": true,
     "updateForcedMessage": "",
-    "offlineMessage": "Disservizi in corso: ci scusiamo per il disagio",
+    "offlineMessage": "",
     "offlineFeatures": {
       "carriera": false,
       "comunicazione": false,
