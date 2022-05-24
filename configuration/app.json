@@ -12,7 +12,7 @@
     "offline": true,
     "updateForced": true,
     "updateForcedMessage": "",
-    "offlineMessage": "",
+    "offlineMessage": "Disservizi in corso: ci scusiamo per il disagio",
     "offlineFeatures": {
       "carriera": false,
       "comunicazione": false,
