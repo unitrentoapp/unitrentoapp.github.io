@@ -38,6 +38,6 @@
         "cedolini": { "offline": false, "menu": true },
         "biblioteca": { "offline": false, "menu": true },
         "opera": { "offline": false, "menu": true },
-        "unitrentosport": { "offline": true, "menu": false }
+        "unitrentosport": { "offline": false, "menu": true }
     }
 }
