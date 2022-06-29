@@ -7,6 +7,8 @@
 
     "annoAccademico": 2020,
     "notificationLimit": 25,
+    "iseeAttivo": true,
+    "iseeAnno": 2021,
 
     "currentVersion": "1.2.5",
     "offline": false,
