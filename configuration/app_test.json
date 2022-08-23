@@ -22,6 +22,7 @@
         "carrieraEsiti": { "offline": false, "menu": true },
         "carrieraPrenotazioni": { "offline": false, "menu": true },
         "carrieraTasse": { "offline": false, "menu": true },
+        "carrieraSicurezza": { "offline": false, "menu": true },
         "comunicazione": { "offline": false, "menu": true },
         "orariAuleAule": { "offline": false, "menu": true },
         "orariAuleOrari": { "offline": false, "menu": true },
