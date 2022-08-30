@@ -5,7 +5,7 @@
     "loggerHistory": true,
     "baseUrl": "https://webapitest.unitn.it/",
 
-    "annoAccademico": 2020,
+    "annoAccademico": 2022,
     "notificationLimit": 25,
     "iseeAttivo": true,
     "iseeAnno": 2021,
