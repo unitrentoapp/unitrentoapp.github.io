@@ -8,7 +8,7 @@
     "annoAccademico": 2022,
     "notificationLimit": 25,
     
-    "currentVersion": "1.3.2",
+    "currentVersion": "1.4.2",
     "offline": false,
     "updateForced": true,
     "updateForcedMessage": "",
@@ -31,7 +31,7 @@
         "carrieraEsiti": { "offline": false, "menu": true },
         "carrieraPrenotazioni": { "offline": false, "menu": true },
         "carrieraTasse": { "offline": false, "menu": false },
-        "carrieraSicurezza": { "offline": false, "menu": false },
+        "carrieraSicurezza": { "offline": false, "menu": true },
         "comunicazione": { "offline": false, "menu": true },
         "orariAuleAule": { "offline": false, "menu": true },
         "orariAuleOrari": { "offline": false, "menu": true },
