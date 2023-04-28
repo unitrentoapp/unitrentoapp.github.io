@@ -30,7 +30,7 @@
         "carrieraBadge": { "offline": false, "menu": true },
         "carrieraEsiti": { "offline": false, "menu": true },
         "carrieraPrenotazioni": { "offline": false, "menu": true },
-        "carrieraTasse": { "offline": false, "menu": false },
+        "carrieraTasse": { "offline": true, "menu": false },
         "carrieraSicurezza": { "offline": false, "menu": true },
         "comunicazione": { "offline": false, "menu": true },
         "orariAuleAule": { "offline": false, "menu": true },
@@ -38,9 +38,9 @@
         "rubrica": { "offline": false, "menu": true },
         "cedolini": { "offline": false, "menu": true },
         "biblioteca": { "offline": false, "menu": true },
-        "bibliotecaSpazi": { "offline": false, "menu": true },
+        "bibliotecaSpazi": { "offline": true, "menu": false },
         "opera": { "offline": false, "menu": true },
         "unitrentosport": { "offline": false, "menu": true },
-        "unitrentosportSpazi": { "offline": false, "menu": true }
+        "unitrentosportSpazi": { "offline": true, "menu": false }
     }
 }
