@@ -8,10 +8,10 @@
     "annoAccademico": 2022,
     "notificationLimit": 25,
     
-    "currentVersion": "1.4.3",
+    "currentVersion": "1.4.4",
     "offline": false,
     "updateForced": true,
-    "updateForcedMessage": "",
+    "updateForcedMessage": "Nuova funzionalità di prenotazione aule studio di gruppo",
     "offlineMessage": "",
     "offlineFeatures": {
       "carriera": false,
@@ -37,8 +37,8 @@
         "orariAuleOrari": { "offline": false, "menu": true },
         "rubrica": { "offline": false, "menu": true },
         "cedolini": { "offline": false, "menu": true },
-        "biblioteca": { "offline": false, "menu": true },
-        "bibliotecaSpazi": { "offline": true, "menu": false },
+        "biblioteca": { "offline": true, "menu": false },
+        "bibliotecaSpazi": { "offline": false, "menu": true },
         "opera": { "offline": false, "menu": true },
         "unitrentosport": { "offline": false, "menu": true },
         "unitrentosportSpazi": { "offline": true, "menu": false }
