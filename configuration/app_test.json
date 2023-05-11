@@ -32,6 +32,7 @@
         "bibliotecaSpazi": { "offline": false, "menu": true },
         "opera": { "offline": false, "menu": true },
         "unitrentosport": { "offline": false, "menu": true },
-        "unitrentosportSpazi": { "offline": false, "menu": true }
+        "unitrentosportSpazi": { "offline": false, "menu": true },
+        "bupa": { "offline": false, "menu": true }
     }
 }
