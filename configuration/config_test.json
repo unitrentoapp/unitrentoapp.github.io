@@ -1,0 +1,23 @@
+{
+  "app": {
+    "status": {
+      "type": "active",
+      "message": ""
+    },
+    "update": {
+      "currentVersion": "2.0.0",
+      "minVersion": "1.4.2",
+      "required": false,
+      "forceLogout": false
+    }
+  },
+  "customData": {
+    "academicYear": 2022,
+  },
+  "endpoints": {
+    "baseApiUrl": "https://webapitest.unitn.it/"
+  },
+  "logger": {
+    "level": "DEBUG"
+  }
+}
