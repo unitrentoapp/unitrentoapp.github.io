@@ -1,0 +1,15 @@
+[
+  {
+    "name": "bupa",
+    "visibility": "user",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  }
+]
