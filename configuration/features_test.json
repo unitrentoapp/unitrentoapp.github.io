@@ -15,7 +15,7 @@
   {
     "name": "cedolini",
     "visibility": "user",
-    "profiles": ["base.user"],
+    "profiles": ["cedolini.user"],
     "available": true,
     "status": {
       "type": "online",
