@@ -24,5 +24,31 @@
         "en": ""
       }
     }
+  },
+  {
+    "name": "opera",
+    "visibility": "user",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "spazi",
+    "visibility": "user",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
   }
 ]
