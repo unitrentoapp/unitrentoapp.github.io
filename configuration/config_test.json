@@ -15,7 +15,7 @@
     "academicYear": 2022
   },
   "endpoints": {
-    "baseApiUrl": "https://webapitest.unitn.it/"
+    "baseApiUrl": "https://webapi.unitn.it/"
   },
   "logger": {
     "level": "DEBUG"
