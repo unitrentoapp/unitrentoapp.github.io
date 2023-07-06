@@ -50,5 +50,18 @@
         "en": ""
       }
     }
+  },
+  {
+    "name": "rubrica",
+    "visibility": "user",
+    "profiles": [],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
   }
 ]
