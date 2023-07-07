@@ -63,5 +63,18 @@
         "en": ""
       }
     }
+  },
+  {
+    "name": "aule",
+    "visibility": "user",
+    "profiles": [],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
   }
 ]
