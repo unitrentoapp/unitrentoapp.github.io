@@ -2,7 +2,7 @@
   {
     "name": "bupa",
     "visibility": "user",
-    "profiles": ["base.user"],
+    "profiles": ["bupa.user"],
     "available": true,
     "status": {
       "type": "online",
