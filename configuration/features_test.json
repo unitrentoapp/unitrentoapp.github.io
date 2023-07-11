@@ -1,7 +1,6 @@
 [
   {
     "name": "bupa",
-    "visibility": "user",
     "profiles": ["bupa.user"],
     "available": true,
     "status": {
@@ -14,7 +13,6 @@
   },
   {
     "name": "cedolini",
-    "visibility": "user",
     "profiles": ["cedolini.user"],
     "available": true,
     "status": {
@@ -27,7 +25,6 @@
   },
   {
     "name": "opera",
-    "visibility": "user",
     "profiles": ["base.user"],
     "available": true,
     "status": {
@@ -39,9 +36,20 @@
     }
   },
   {
-    "name": "spazi",
-    "visibility": "user",
+    "name": "spazi-sale-studio",
     "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "spazi-unitrentosport",
+    "profiles": [],
     "available": true,
     "status": {
       "type": "online",
@@ -53,7 +61,6 @@
   },
   {
     "name": "rubrica",
-    "visibility": "user",
     "profiles": [],
     "available": true,
     "status": {
@@ -66,7 +73,6 @@
   },
   {
     "name": "aule",
-    "visibility": "user",
     "profiles": ["base.user"],
     "available": true,
     "status": {
@@ -79,7 +85,6 @@
   },
   {
     "name": "orari",
-    "visibility": "user",
     "profiles": ["base.user"],
     "available": true,
     "status": {
