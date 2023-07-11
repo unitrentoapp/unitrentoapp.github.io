@@ -67,7 +67,20 @@
   {
     "name": "aule",
     "visibility": "user",
-    "profiles": [],
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "orari",
+    "visibility": "user",
+    "profiles": ["base.user"],
     "available": true,
     "status": {
       "type": "online",
