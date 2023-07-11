@@ -37,7 +37,7 @@
   },
   {
     "name": "spazi-sale-studio",
-    "profiles": ["base.user"],
+    "profiles": ["bawertwretse.user"],
     "available": true,
     "status": {
       "type": "online",
