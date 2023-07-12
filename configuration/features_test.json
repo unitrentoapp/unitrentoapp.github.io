@@ -94,5 +94,17 @@
         "en": ""
       }
     }
+  },
+  {
+    "name": "comunicazione",
+    "profiles": [],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
   }
 ]
