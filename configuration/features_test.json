@@ -1,5 +1,77 @@
 [
   {
+    "name": "carriera-badge",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "carriera-libretto",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "carriera-sicurezza",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "carriera-prenotazioni",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "carriera-esiti",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "carriera-tasse",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
     "name": "bupa",
     "profiles": ["bupa.user"],
     "available": true,
