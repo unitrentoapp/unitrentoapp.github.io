@@ -1,8 +1,103 @@
 [
   {
     "name": "bupa",
-    "visibility": "user",
+    "profiles": ["bupa.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "cedolini",
+    "profiles": ["cedolini.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "opera",
     "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "spazi-sale-studio",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "spazi-unitrentosport",
+    "profiles": [],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "rubrica",
+    "profiles": [],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "aule",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "orari",
+    "profiles": ["base.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "comunicazione",
+    "profiles": [],
     "available": true,
     "status": {
       "type": "online",
