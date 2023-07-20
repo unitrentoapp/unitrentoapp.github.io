@@ -18,6 +18,6 @@
     "baseApiUrl": "https://webapi.unitn.it/"
   },
   "logger": {
-    "level": "INFO"
+    "level": "DEBUG"
   }
 }
