@@ -12,10 +12,19 @@
     }
   },
   "customData": {
-    "academicYear": 2022
+    "academicYear": 2022,
+    "isee": {
+        "active": false,
+        "year": 2021
+    },
+    "support": {
+        "minLength": 10,
+        "maxLength": 2000
+    }
   },
   "endpoints": {
-    "baseApiUrl": "https://webapi.unitn.it/"
+    "baseApiUrl": "https://webapi.unitn.it/",    
+    "supportUrl": "https://unitrento.service-now.com/unitrento"
   },
   "logger": {
     "level": "DEBUG"
