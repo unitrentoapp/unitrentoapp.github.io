@@ -24,7 +24,7 @@
   },
   "endpoints": {
     "baseApiUrl": "https://webapi.unitn.it/",    
-    "supportUrl": "https://unitrento.service-now.com/unitrento"
+    "supportUrl": "https://unitrento.service-now.com/unitrento/it/service-offering/unitrentoapp?id=unitrento_service_offering_dettaglio&sys_id=9335b2cec3c855504cbb7055df0131ff&table=service_offering"
   },
   "logger": {
     "level": "DEBUG"
