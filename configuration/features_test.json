@@ -1,7 +1,7 @@
 [
   {
     "name": "carriera-badge",
-    "profiles": ["base.user"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -13,7 +13,7 @@
   },
   {
     "name": "carriera-libretto",
-    "profiles": ["base.user"],
+    "profiles": ["studente.esse3", "alumni.exstudenti"],
     "available": true,
     "status": {
       "type": "online",
@@ -25,7 +25,7 @@
   },
   {
     "name": "carriera-sicurezza",
-    "profiles": ["base.user"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -37,7 +37,7 @@
   },
   {
     "name": "carriera-bacheca",
-    "profiles": ["base.user"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -49,7 +49,7 @@
   },
   {
     "name": "carriera-tasse",
-    "profiles": ["base.user"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -85,7 +85,7 @@
   },
   {
     "name": "opera",
-    "profiles": ["base.user"],
+    "profiles": ["opera.user"],
     "available": true,
     "status": {
       "type": "online",
@@ -97,7 +97,7 @@
   },
   {
     "name": "spazi-sale-studio",
-    "profiles": ["base.user"],
+    "profiles": ["base.user", "studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -109,7 +109,7 @@
   },
   {
     "name": "spazi-unitrentosport",
-    "profiles": [],
+    "profiles": ["base.user", "studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -133,7 +133,7 @@
   },
   {
     "name": "aule",
-    "profiles": ["base.user"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -145,7 +145,7 @@
   },
   {
     "name": "orari",
-    "profiles": ["base.user"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
