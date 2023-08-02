@@ -36,19 +36,7 @@
     }
   },
   {
-    "name": "carriera-prenotazioni",
-    "profiles": ["base.user"],
-    "available": true,
-    "status": {
-      "type": "online",
-      "message": {
-        "it": "",
-        "en": ""
-      }
-    }
-  },
-  {
-    "name": "carriera-esiti",
+    "name": "carriera-bacheca",
     "profiles": ["base.user"],
     "available": true,
     "status": {
