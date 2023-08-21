@@ -61,7 +61,7 @@
   },
   {
     "name": "bupa",
-    "profiles": ["bupa.user"],
+    "profiles": ["bupa.user", "cedolini.user"],
     "available": true,
     "status": {
       "type": "online",
