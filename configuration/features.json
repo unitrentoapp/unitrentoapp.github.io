@@ -52,10 +52,10 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Attualmente non disponibile",
-        "en": "Currently not available"
+        "it": "",
+        "en": ""
       }
     }
   },
