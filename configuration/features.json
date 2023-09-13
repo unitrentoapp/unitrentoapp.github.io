@@ -49,8 +49,8 @@
   },
   {
     "name": "carriera-tasse",
-    "profiles": ["admin"],
-    "available": true,
+    "profiles": ["studente.esse3"],
+    "available": false,
     "status": {
       "type": "online",
       "message": {
