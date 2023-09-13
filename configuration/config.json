@@ -6,7 +6,7 @@
     },
     "update": {
       "currentVersion": "2.0.0",
-      "minVersion": "1.4.2",
+      "minVersion": "2.0.0",
       "required": false,
       "forceLogout": false
     }
@@ -27,6 +27,6 @@
     "supportUrl": "https://unitrento.service-now.com/unitrento/{lang}/service-offering/unitrentoapp?id=unitrento_service_offering_dettaglio&sys_id=9335b2cec3c855504cbb7055df0131ff&table=service_offering"
   },
   "logger": {
-    "level": "DEBUG"
+    "level": "WARN"
   }
 }
