@@ -1,8 +1,11 @@
 {
   "app": {
     "status": {
-      "type": "active",
-      "message": ""
+      "type": "inactive",
+      "message": {
+        "it": "IT",
+        "en": "EN"
+      }
     },
     "update": {
       "currentVersion": "2.0.0",
