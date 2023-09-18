@@ -1,7 +1,7 @@
 {
   "app": {
     "status": {
-      "type": "offline",
+      "type": "inactive",
       "message": {
         "it": "UniTrentoApp momentaneamente non disponibile",
         "en": "UniTrentoApp momentaneamente non disponibile"
