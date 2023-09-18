@@ -5,7 +5,8 @@
       "message": {
         "it": "UniTrentoApp momentaneamente non disponibile",
         "en": "UniTrentoApp momentaneamente non disponibile"
-      }
+      },
+      "linkServiceDesk": false
     },
     "update": {
       "currentVersion": "2.0.0",
