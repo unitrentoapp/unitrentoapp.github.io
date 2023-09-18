@@ -1,7 +1,7 @@
 {
   "app": {
     "status": {
-      "type": "active",
+      "type": "inactive",
       "message": ""
     },
     "update": {
