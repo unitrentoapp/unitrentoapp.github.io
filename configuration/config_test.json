@@ -1,12 +1,12 @@
 {
   "app": {
     "status": {
-      "type": "inactive",
+      "type": "active",
       "message": {
         "it": "",
         "en": ""
       },
-      "linkServiceDesk": true
+      "linkServiceDesk": false
     },
     "update": {
       "currentVersion": "2.0.0",
