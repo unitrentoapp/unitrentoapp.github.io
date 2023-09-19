@@ -6,7 +6,7 @@
         "it": "",
         "en": ""
       },
-      "linkServiceDesk": false
+      "linkServiceDesk": true
     },
     "update": {
       "currentVersion": "2.0.0",
