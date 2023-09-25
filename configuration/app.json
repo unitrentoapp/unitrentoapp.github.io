@@ -8,10 +8,10 @@
     "annoAccademico": 2022,
     "notificationLimit": 25,
     
-    "currentVersion": "1.4.4",
+    "currentVersion": "2.0.1",
     "offline": false,
     "updateForced": true,
-    "updateForcedMessage": "Nuova funzionalità di prenotazione aule studio di gruppo",
+    "updateForcedMessage": "Nuova versione di UniTrentoApp disponibile",
     "offlineMessage": "",
     "offlineFeatures": {
       "carriera": false,
