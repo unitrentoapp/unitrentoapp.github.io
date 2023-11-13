@@ -166,5 +166,17 @@
         "en": ""
       }
     }
+  },
+  {
+    "name": "notification-center",
+    "profiles": ["bardo.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
   }
 ]
