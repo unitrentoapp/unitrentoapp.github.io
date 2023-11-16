@@ -4,10 +4,10 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "I servizi Cineca non sono disponibili",
+        "en": "I servizi Cineca non sono disponibili"
       }
     }
   },
@@ -16,10 +16,10 @@
     "profiles": ["studente.esse3", "alumni.exstudenti"],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "I servizi Cineca non sono disponibili",
+        "en": "I servizi Cineca non sono disponibili"
       }
     }
   },
@@ -28,10 +28,10 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "I servizi Cineca non sono disponibili",
+        "en": "I servizi Cineca non sono disponibili"
       }
     }
   },
@@ -40,10 +40,10 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "I servizi Cineca non sono disponibili",
+        "en": "I servizi Cineca non sono disponibili"
       }
     }
   },
@@ -52,10 +52,10 @@
     "profiles": ["studente.esse3"],
     "available": false,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "I servizi Cineca non sono disponibili",
+        "en": "I servizi Cineca non sono disponibili"
       }
     }
   },
