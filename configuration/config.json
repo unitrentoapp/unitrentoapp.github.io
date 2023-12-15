@@ -1,12 +1,12 @@
 {
   "app": {
     "status": {
-      "type": "inactive",
+      "type": "active",
       "message": {
-        "it": "UniTrentoApp è temporaneamente fuori servizio per un intervento programmato di manutenzione straordinaria. Riattivazione prevista per la serata di oggi.",
-        "en": "UniTrentoApp is temporarily out of service for a scheduled extraordinary maintenance work. Reactivation scheduled for today evening."
+        "it": "",
+        "en": ""
       },
-      "linkServiceDesk": true
+      "linkServiceDesk": false
     },
     "update": {
       "currentVersion": "2.0.1",
