@@ -4,7 +4,7 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
         "it": "",
         "en": ""
@@ -16,7 +16,7 @@
     "profiles": ["studente.esse3", "alumni.exstudenti"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
         "it": "",
         "en": ""
@@ -28,7 +28,7 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
         "it": "",
         "en": ""
@@ -40,7 +40,7 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
         "it": "",
         "en": ""
