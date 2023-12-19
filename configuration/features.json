@@ -2,9 +2,9 @@
   {
     "name": "carriera-badge",
     "profiles": ["studente.esse3"],
-    "available": false,
+    "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
         "it": "",
         "en": ""
@@ -14,9 +14,9 @@
   {
     "name": "carriera-libretto",
     "profiles": ["studente.esse3", "alumni.exstudenti"],
-    "available": false,
+    "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
         "it": "",
         "en": ""
@@ -26,9 +26,9 @@
   {
     "name": "carriera-sicurezza",
     "profiles": ["studente.esse3"],
-    "available": false,
+    "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
         "it": "",
         "en": ""
@@ -38,9 +38,9 @@
   {
     "name": "carriera-bacheca",
     "profiles": ["studente.esse3"],
-    "available": false,
+    "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
         "it": "",
         "en": ""
