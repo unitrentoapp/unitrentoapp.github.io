@@ -4,10 +4,10 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Per attività di aggiornamento, non sarà possibile accedere al sistema Esse3",
-        "en": "Due to an upgrade session, the Esse3 System will be unavailable"
+        "it": "",
+        "en": ""
       }
     }
   },
@@ -16,10 +16,10 @@
     "profiles": ["studente.esse3", "alumni.exstudenti"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Per attività di aggiornamento, non sarà possibile accedere al sistema Esse3",
-        "en": "Due to an upgrade session, the Esse3 System will be unavailable"
+        "it": "",
+        "en": ""
       }
     }
   },
@@ -28,10 +28,10 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Per attività di aggiornamento, non sarà possibile accedere al sistema Esse3",
-        "en": "Due to an upgrade session, the Esse3 System will be unavailable"
+        "it": "",
+        "en": ""
       }
     }
   },
@@ -40,10 +40,10 @@
     "profiles": ["studente.esse3"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Per attività di aggiornamento, non sarà possibile accedere al sistema Esse3",
-        "en": "Due to an upgrade session, the Esse3 System will be unavailable"
+        "it": "",
+        "en": ""
       }
     }
   },
