@@ -4,10 +4,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "Funzionalità momentaneamente non disponibile",
+        "en": "Feature temporarily unavailable"
       }
     }
   },
@@ -16,10 +16,10 @@
     "profiles": ["studente.esse3", "alumni.exstudenti", "admin"],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "Funzionalità momentaneamente non disponibile",
+        "en": "Feature temporarily unavailable"
       }
     }
   },
@@ -40,10 +40,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "Funzionalità momentaneamente non disponibile",
+        "en": "Feature temporarily unavailable"
       }
     }
   },
