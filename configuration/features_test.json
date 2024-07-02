@@ -1,7 +1,7 @@
 [
   {
     "name": "carriera-badge",
-    "profiles": ["studente.esse3"],
+    "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -13,7 +13,7 @@
   },
   {
     "name": "carriera-libretto",
-    "profiles": ["studente.esse3", "alumni.exstudenti"],
+    "profiles": ["studente.esse3", "alumni.exstudenti", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -25,7 +25,7 @@
   },
   {
     "name": "carriera-sicurezza",
-    "profiles": ["studente.esse3"],
+    "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -37,7 +37,7 @@
   },
   {
     "name": "carriera-bacheca",
-    "profiles": ["studente.esse3"],
+    "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -49,7 +49,7 @@
   },
   {
     "name": "carriera-tasse",
-    "profiles": ["studente.esse3"],
+    "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -61,7 +61,7 @@
   },
   {
     "name": "bupa",
-    "profiles": ["bupa.user"],
+    "profiles": ["bupa.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -73,7 +73,7 @@
   },
   {
     "name": "cedolini",
-    "profiles": ["cedolini.user"],
+    "profiles": ["cedolini.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -85,7 +85,7 @@
   },
   {
     "name": "opera",
-    "profiles": ["opera.user"],
+    "profiles": ["opera.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -97,7 +97,7 @@
   },
   {
     "name": "spazi-sale-studio",
-    "profiles": ["base.user", "studente.esse3"],
+    "profiles": ["base.user", "studente.esse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -109,7 +109,7 @@
   },
   {
     "name": "spazi-unitrentosport",
-    "profiles": ["base.user", "studente.esse3"],
+    "profiles": ["base.user", "studente.esse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -133,7 +133,7 @@
   },
   {
     "name": "aule",
-    "profiles": ["studente.esse3"],
+    "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -169,7 +169,7 @@
   },
   {
     "name": "notification-center",
-    "profiles": ["bardo.user"],
+    "profiles": ["bardo.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
