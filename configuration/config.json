@@ -9,8 +9,8 @@
       "linkServiceDesk": false
     },
     "update": {
-      "currentVersion": "2.1.1",
-      "minVersion": "2.0.1",
+      "currentVersion": "2.1.2",
+      "minVersion": "2.1.1",
       "required": false,
       "forceLogout": false
     }
@@ -18,8 +18,8 @@
   "customData": {
     "academicYear": 2023,
     "isee": {
-        "active": false,
-        "year": 2021
+        "active": true,
+        "year": 2024
     },
     "support": {
         "minLength": 10,
