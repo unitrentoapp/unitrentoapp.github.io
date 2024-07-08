@@ -52,10 +52,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "Disponibile a breve",
+        "en": "Upcoming released"
       }
     }
   },
