@@ -50,7 +50,7 @@
   {
     "name": "carriera-tasse",
     "profiles": ["studente.esse3", "admin"],
-    "available": false,
+    "available": true,
     "status": {
       "type": "online",
       "message": {
