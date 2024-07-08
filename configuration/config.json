@@ -18,7 +18,7 @@
   "customData": {
     "academicYear": 2023,
     "isee": {
-        "active": true,
+        "active": false,
         "year": 2024
     },
     "support": {
