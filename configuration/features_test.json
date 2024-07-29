@@ -178,5 +178,17 @@
         "en": ""
       }
     }
+  },
+  {
+    "name": "task-center",
+    "profiles": ["bardoxxx.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
   }
 ]
