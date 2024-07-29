@@ -181,7 +181,7 @@
   },
   {
     "name": "task-center",
-    "profiles": ["bardoxxx.user"],
+    "profiles": ["bardo.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
