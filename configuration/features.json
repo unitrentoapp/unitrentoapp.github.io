@@ -178,5 +178,16 @@
         "en": ""
       }
     }
-  }
+  },
+  {
+    "name": "task-center",
+    "profiles": ["admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
 ]
