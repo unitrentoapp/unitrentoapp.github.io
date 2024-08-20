@@ -9,17 +9,17 @@
       "linkServiceDesk": false
     },
     "update": {
-      "currentVersion": "2.0.1",
-      "minVersion": "2.0.0",
-      "required": false,
+      "currentVersion": "2.1.3",
+      "minVersion": "2.1.3",
+      "required": true,
       "forceLogout": false
     }
   },
   "customData": {
-    "academicYear": 2023,
+    "academicYear": 2024,
     "isee": {
         "active": false,
-        "year": 2023
+        "year": 2024
     },
     "support": {
         "minLength": 10,
