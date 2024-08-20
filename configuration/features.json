@@ -136,10 +136,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Predisposizione dati per il nuovo anno accademico",
-        "en": "Predisposizione dati per il nuovo anno accademico"
+        "it": "",
+        "en": ""
       }
     }
   },
@@ -148,10 +148,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Predisposizione dati per il nuovo anno accademico",
-        "en": "Predisposizione dati per il nuovo anno accademico"
+        "it": "",
+        "en": ""
       }
     }
   },
