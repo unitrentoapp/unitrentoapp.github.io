@@ -168,6 +168,18 @@
     }
   },
   {
+    "name": "esc",
+    "profiles": ["admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
     "name": "notification-center",
     "profiles": ["bardo.user", "admin"],
     "available": true,
@@ -181,6 +193,18 @@
   },
   {
     "name": "task-center",
+    "profiles": ["admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
+    "name": "biometric-auth",
     "profiles": ["admin"],
     "available": true,
     "status": {
