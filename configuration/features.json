@@ -193,7 +193,7 @@
   },
   {
     "name": "task-center",
-    "profiles": ["admin"],
+    "profiles": ["task.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
