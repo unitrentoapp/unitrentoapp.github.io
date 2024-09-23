@@ -145,7 +145,7 @@
   },
   {
     "name": "orari",
-    "profiles": ["studente.esse3"],
+    "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
