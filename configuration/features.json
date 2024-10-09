@@ -13,7 +13,7 @@
   },
   {
     "name": "carriera-libretto",
-    "profiles": ["studente.esse3", "alumni.exstudenti", "admin"],
+    "profiles": ["studente.user", "studente.esse3", "alumni.exstudenti", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -97,7 +97,7 @@
   },
   {
     "name": "spazi-sale-studio",
-    "profiles": ["base.user", "studente.esse3", "admin"],
+    "profiles": ["base.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -109,7 +109,7 @@
   },
   {
     "name": "spazi-unitrentosport",
-    "profiles": ["base.user", "studente.esse3", "admin"],
+    "profiles": ["base.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -133,7 +133,7 @@
   },
   {
     "name": "aule",
-    "profiles": ["studente.esse3", "admin"],
+    "profiles": ["studente.esse3", "studente.noesse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
@@ -145,7 +145,7 @@
   },
   {
     "name": "orari",
-    "profiles": ["studente.esse3", "admin"],
+    "profiles": ["studente.esse3", "studente.noesse3", "admin"],
     "available": true,
     "status": {
       "type": "online",
