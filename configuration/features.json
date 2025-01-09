@@ -4,10 +4,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Aggiornamento Esse3",
-        "en": "Update Esse3 System"
+        "it": "",
+        "en": ""
       }
     }
   },
@@ -16,10 +16,10 @@
     "profiles": ["studente.user", "studente.esse3", "alumni.exstudenti", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Aggiornamento Esse3",
-        "en": "Update Esse3 System"
+        "it": "",
+        "en": ""
       }
     }
   },
@@ -28,10 +28,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Aggiornamento Esse3",
-        "en": "Update Esse3 System"
+        "it": "",
+        "en": ""
       }
     }
   },
@@ -40,10 +40,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Aggiornamento Esse3",
-        "en": "Update Esse3 System"
+        "it": "",
+        "en": ""
       }
     }
   },
@@ -52,10 +52,10 @@
     "profiles": ["studente.esse3", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Aggiornamento Esse3",
-        "en": "Update Esse3 System"
+        "it": "",
+        "en": ""
       }
     }
   },
