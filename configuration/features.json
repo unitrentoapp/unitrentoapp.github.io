@@ -160,10 +160,10 @@
     "profiles": [],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "Temporaneamente non disponibile",
+        "en": "Temporarily unavailable"
       }
     }
   },
