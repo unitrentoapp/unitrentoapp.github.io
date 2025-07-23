@@ -27,7 +27,7 @@
     }
   },
   "endpoints": {
-    "baseApiUrl": "https://webapitest.unitn.it/",    
+    "baseApiUrl": "https://webapi.unitn.it/",    
     "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00198"
   },
   "logger": {
