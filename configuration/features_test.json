@@ -180,7 +180,7 @@
     }
   },
   {
-    "name": "stria-stu",
+    "name": "stria",
     "profiles": ["admin"],
     "available": true,
     "status": {
