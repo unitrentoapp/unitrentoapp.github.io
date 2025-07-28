@@ -12,6 +12,18 @@
     }
   },
   {
+    "name": "carriera-esc",
+    "profiles": ["admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    }
+  },
+  {
     "name": "carriera-libretto",
     "profiles": ["studente.esse3", "alumni.exstudenti", "admin"],
     "available": true,
@@ -158,18 +170,6 @@
   {
     "name": "comunicazione",
     "profiles": [],
-    "available": true,
-    "status": {
-      "type": "online",
-      "message": {
-        "it": "",
-        "en": ""
-      }
-    }
-  },
-  {
-    "name": "esc",
-    "profiles": ["admin"],
     "available": true,
     "status": {
       "type": "online",
