@@ -1,7 +1,7 @@
 {
   "app": {
     "status": {
-      "type": "inactive",
+      "type": "active",
       "message": {
         "it": "Intervento di manutenzione straordinaria sull'infrastruttura di Datacenter d'Ateneo",
         "en": "Intervento di manutenzione straordinaria sull'infrastruttura di Datacenter d'Ateneo"
