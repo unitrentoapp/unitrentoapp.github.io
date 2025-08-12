@@ -124,7 +124,7 @@
     "profiles": [],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
         "it": "",
         "en": ""
