@@ -3,8 +3,8 @@
     "status": {
       "type": "active",
       "message": {
-        "it": "Intervento di manutenzione straordinaria sull'infrastruttura di Datacenter d'Ateneo",
-        "en": "Intervento di manutenzione straordinaria sull'infrastruttura di Datacenter d'Ateneo"
+        "it": "",
+        "en": ""
       },
       "linkServiceDesk": true
     },
@@ -16,7 +16,7 @@
     }
   },
   "customData": {
-    "academicYear": 2024,
+    "academicYear": 2025,
     "isee": {
         "active": true,
         "year": 2025
