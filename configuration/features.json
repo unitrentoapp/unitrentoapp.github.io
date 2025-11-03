@@ -86,7 +86,7 @@
   {
     "name": "opera",
     "profiles": ["opera.user", "admin"],
-    "available": true,
+    "available": false,
     "status": {
       "type": "online",
       "message": {
