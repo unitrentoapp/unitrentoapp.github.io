@@ -182,7 +182,7 @@
   {
     "name": "stria",
     "profiles": ["stria.user", "admin"],
-    "available": true,
+    "available": false,
     "status": {
       "type": "online",
       "message": {
