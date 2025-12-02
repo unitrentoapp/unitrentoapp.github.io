@@ -169,7 +169,7 @@
   },
   {
     "name": "carriera-esc",
-    "profiles": ["admin"],
+    "profiles": ["esc.user", "admin"],
     "available": true,
     "status": {
       "type": "online",
