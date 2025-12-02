@@ -168,7 +168,7 @@
     }
   },
   {
-    "name": "esc",
+    "name": "carriera-esc",
     "profiles": ["admin"],
     "available": true,
     "status": {
