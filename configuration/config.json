@@ -9,9 +9,9 @@
       "linkServiceDesk": true
     },
     "update": {
-      "currentVersion": "2.2.0",
-      "minVersion": "2.1.5",
-      "required": false,
+      "currentVersion": "2.2.3",
+      "minVersion": "2.2.3",
+      "required": true,
       "forceLogout": false
     }
   },
