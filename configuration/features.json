@@ -184,10 +184,10 @@
     "profiles": ["stria.user", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Temporaneamente non disponibile",
-        "en": "Temporarily unavailable"
+        "it": "",
+        "en": ""
       }
     }
   },
