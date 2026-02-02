@@ -9,7 +9,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00162"
   },
   {
     "name": "carriera-esc",
@@ -21,7 +22,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00630"
   },
   {
     "name": "carriera-libretto",
@@ -33,7 +35,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00612"
   },
   {
     "name": "carriera-sicurezza",
@@ -45,7 +48,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00610"
   },
   {
     "name": "carriera-bacheca",
@@ -57,7 +61,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00612"
   },
   {
     "name": "carriera-tasse",
@@ -69,7 +74,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00616"
   },
   {
     "name": "bupa",
@@ -81,7 +87,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00149"
   },
   {
     "name": "cedolini",
@@ -93,19 +100,21 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00240"
   },
   {
     "name": "opera",
     "profiles": ["opera.user", "admin"],
-    "available": true,
+    "available": false,
     "status": {
       "type": "online",
       "message": {
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": null
   },
   {
     "name": "spazi-sale-studio",
@@ -117,7 +126,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00563"
   },
   {
     "name": "spazi-unitrentosport",
@@ -129,7 +139,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00563"
   },
   {
     "name": "rubrica",
@@ -141,7 +152,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00247"
   },
   {
     "name": "aule",
@@ -153,7 +165,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00606"
   },
   {
     "name": "orari",
@@ -165,7 +178,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00606"
   },
   {
     "name": "comunicazione",
@@ -177,7 +191,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": null
   },
   {
     "name": "stria",
@@ -189,7 +204,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": "S00590"
   },
   {
     "name": "vcard",
@@ -201,7 +217,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": null
   },
   {
     "name": "notification-center",
@@ -213,7 +230,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": null
   },
   {
     "name": "task-center",
@@ -225,7 +243,8 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": null
   },
   {
     "name": "biometric-auth",
@@ -237,6 +256,7 @@
         "it": "",
         "en": ""
       }
-    }
+    },
+    "card": null
   }
 ]
