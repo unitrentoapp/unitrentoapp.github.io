@@ -28,8 +28,7 @@
   },
   "endpoints": {
     "baseApiUrl": "https://webapitest.unitn.it/",    
-    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00198",
-    "serviceCardUrl": "https://servicedesk.unitn.it/go/{lang}?s={cardCode}"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00198"
   },
   "logger": {
     "level": "DEBUG"
