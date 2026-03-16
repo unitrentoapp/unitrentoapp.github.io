@@ -10,7 +10,7 @@
         "en": ""
       }
     },
-    "card": "S00162"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00162"
   },
   {
     "name": "carriera-esc",
@@ -23,7 +23,7 @@
         "en": ""
       }
     },
-    "card": "S00630"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00630"
   },
   {
     "name": "carriera-libretto",
@@ -36,7 +36,7 @@
         "en": ""
       }
     },
-    "card": "S00612"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00612"
   },
   {
     "name": "carriera-sicurezza",
@@ -49,7 +49,7 @@
         "en": ""
       }
     },
-    "card": "S00610"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00610"
   },
   {
     "name": "carriera-bacheca",
@@ -62,7 +62,7 @@
         "en": ""
       }
     },
-    "card": "S00612"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00612"
   },
   {
     "name": "carriera-tasse",
@@ -75,7 +75,7 @@
         "en": ""
       }
     },
-    "card": "S00616"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00616"
   },
   {
     "name": "bupa",
@@ -88,7 +88,7 @@
         "en": ""
       }
     },
-    "card": "S00149"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00149"
   },
   {
     "name": "cedolini",
@@ -101,7 +101,7 @@
         "en": ""
       }
     },
-    "card": "S00240"
+    "supportUrl": null
   },
   {
     "name": "opera",
@@ -114,7 +114,7 @@
         "en": ""
       }
     },
-    "card": null
+    "supportUrl": null
   },
   {
     "name": "spazi-sale-studio",
@@ -127,7 +127,7 @@
         "en": ""
       }
     },
-    "card": "S00563"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00563"
   },
   {
     "name": "spazi-unitrentosport",
@@ -140,7 +140,7 @@
         "en": ""
       }
     },
-    "card": "S00563"
+    "supportUrl": null
   },
   {
     "name": "rubrica",
@@ -153,7 +153,7 @@
         "en": ""
       }
     },
-    "card": "S00247"
+    "supportUrl": null
   },
   {
     "name": "aule",
@@ -166,7 +166,7 @@
         "en": ""
       }
     },
-    "card": "S00606"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00606"
   },
   {
     "name": "orari",
@@ -179,7 +179,7 @@
         "en": ""
       }
     },
-    "card": "S00606"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00606"
   },
   {
     "name": "comunicazione",
@@ -192,7 +192,7 @@
         "en": ""
       }
     },
-    "card": null
+    "supportUrl": null
   },
   {
     "name": "stria",
@@ -205,7 +205,7 @@
         "en": ""
       }
     },
-    "card": "S00590"
+    "supportUrl": null
   },
   {
     "name": "vcard",
@@ -218,7 +218,7 @@
         "en": ""
       }
     },
-    "card": null
+    "supportUrl": null
   },
   {
     "name": "notification-center",
@@ -231,7 +231,7 @@
         "en": ""
       }
     },
-    "card": null
+    "supportUrl": null
   },
   {
     "name": "task-center",
@@ -244,7 +244,7 @@
         "en": ""
       }
     },
-    "card": null
+    "supportUrl": null
   },
   {
     "name": "biometric-auth",
@@ -257,6 +257,6 @@
         "en": ""
       }
     },
-    "card": null
+    "supportUrl": null
   }
 ]
