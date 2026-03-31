@@ -184,10 +184,10 @@
     "profiles": ["stria.user", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Aggiornamento in corso...",
-        "en": "Update in progress..."
+        "it": "",
+        "en": ""
       }
     }
   },
