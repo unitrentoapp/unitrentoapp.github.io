@@ -1,0 +1,262 @@
+[
+  {
+    "name": "carriera-badge",
+    "profiles": ["studente.esse3", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00610"
+  },
+  {
+    "name": "carriera-esc",
+    "profiles": ["admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00630"
+  },
+  {
+    "name": "carriera-libretto",
+    "profiles": ["studente.esse3", "alumni.exstudenti", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00612"
+  },
+  {
+    "name": "carriera-sicurezza",
+    "profiles": ["studente.esse3", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00610"
+  },
+  {
+    "name": "carriera-bacheca",
+    "profiles": ["studente.esse3", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00612"
+  },
+  {
+    "name": "carriera-tasse",
+    "profiles": ["studente.esse3", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00616"
+  },
+  {
+    "name": "bupa",
+    "profiles": ["bupa.user", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00149"
+  },
+  {
+    "name": "cedolini",
+    "profiles": ["cedolini.user", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "opera",
+    "profiles": ["opera.user", "admin"],
+    "available": false,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "spazi-sale-studio",
+    "profiles": ["base.user", "studente.esse3", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00563"
+  },
+  {
+    "name": "spazi-unitrentosport",
+    "profiles": ["base.user", "studente.esse3", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "rubrica",
+    "profiles": [],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "aule",
+    "profiles": ["studente.esse3", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00606"
+  },
+  {
+    "name": "orari",
+    "profiles": ["studente.esse3", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00606"
+  },
+  {
+    "name": "comunicazione",
+    "profiles": [],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "stria",
+    "profiles": ["stria.user", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "vcard",
+    "profiles": ["admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "notification-center",
+    "profiles": ["bardo.user", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "task-center",
+    "profiles": [ "task.user", "admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
+    "name": "biometric-auth",
+    "profiles": ["admin"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  }
+]
