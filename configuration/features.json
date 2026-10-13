@@ -199,10 +199,10 @@
     "profiles": ["stria.user", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Servizio temporaneamente non disponibile",
-        "en": "Service temporarily unavailable"
+        "it": "",
+        "en": ""
       }
     },
     "supportUrl": null
