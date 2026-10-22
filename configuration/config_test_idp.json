@@ -6,7 +6,7 @@
         "it": "Servizi di UniTrentoApp in manutenzione",
         "en": "Servizi di UniTrentoApp in manutenzione EN"
       },
-      "linkServiceDesk": false
+      "linkServiceDesk": true
     },
     "update": {
       "currentVersion": "2.2.4",
