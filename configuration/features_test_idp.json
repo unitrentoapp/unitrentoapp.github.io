@@ -95,10 +95,10 @@
     "profiles": ["cedolini.user", "admin"],
     "available": true,
     "status": {
-      "type": "offline",
+      "type": "online",
       "message": {
-        "it": "Servizio non disponibile",
-        "en": "Service not available"
+        "it": "",
+        "en": ""
       }
     },
     "supportUrl": null
