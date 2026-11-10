@@ -16,7 +16,7 @@
   },
   "customData": {
     "academicYear": 2026,
-    "calendarSyncInstructionsUrl": "https://servicedesk.unitn.it/go/it?kb=KB0010275",
+    "calendarSyncInstructionsUrl": "https://servicedesk.unitn.it/go/{lang}?kb=KB0010275",
     "isee": {
         "active": false,
         "year": 2025
