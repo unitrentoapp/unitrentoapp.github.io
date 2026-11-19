@@ -1,7 +1,7 @@
 [
   {
     "name": "carriera-badge",
-    "profiles": ["studente.esse3", "admin"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -10,24 +10,11 @@
         "en": ""
       }
     },
-    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00610"
-  },
-  {
-    "name": "carriera-esc",
-    "profiles": ["admin"],
-    "available": true,
-    "status": {
-      "type": "online",
-      "message": {
-        "it": "",
-        "en": ""
-      }
-    },
-    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00630"
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00162"
   },
   {
     "name": "carriera-libretto",
-    "profiles": ["studente.esse3", "alumni.exstudenti", "admin"],
+    "profiles": ["studente.user", "studente.esse3", "alumni.exstudenti"],
     "available": true,
     "status": {
       "type": "online",
@@ -40,7 +27,7 @@
   },
   {
     "name": "carriera-sicurezza",
-    "profiles": ["studente.esse3", "admin"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -53,7 +40,7 @@
   },
   {
     "name": "carriera-bacheca",
-    "profiles": ["studente.esse3", "admin"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -66,7 +53,7 @@
   },
   {
     "name": "carriera-tasse",
-    "profiles": ["studente.esse3", "admin"],
+    "profiles": ["studente.esse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -79,7 +66,7 @@
   },
   {
     "name": "bupa",
-    "profiles": ["bupa.user", "admin"],
+    "profiles": ["bupa.user"],
     "available": true,
     "status": {
       "type": "online",
@@ -92,7 +79,7 @@
   },
   {
     "name": "cedolini",
-    "profiles": ["cedolini.user", "admin"],
+    "profiles": ["cedolini.user"],
     "available": true,
     "status": {
       "type": "online",
@@ -104,8 +91,21 @@
     "supportUrl": null
   },
   {
+    "name": "opera",
+    "profiles": ["opera.user"],
+    "available": false,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": null
+  },
+  {
     "name": "spazi-sale-studio",
-    "profiles": ["base.user", "studente.esse3", "admin"],
+    "profiles": ["base.user"],
     "available": true,
     "status": {
       "type": "online",
@@ -118,7 +118,7 @@
   },
   {
     "name": "spazi-unitrentosport",
-    "profiles": ["base.user", "studente.esse3", "admin"],
+    "profiles": ["base.user"],
     "available": true,
     "status": {
       "type": "online",
@@ -140,11 +140,11 @@
         "en": ""
       }
     },
-    "supportUrl": null
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00247"
   },
   {
     "name": "aule",
-    "profiles": ["studente.esse3", "admin"],
+    "profiles": ["studente.esse3", "studente.noesse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -157,7 +157,7 @@
   },
   {
     "name": "orari",
-    "profiles": ["studente.esse3", "admin"],
+    "profiles": ["studente.esse3", "studente.noesse3"],
     "available": true,
     "status": {
       "type": "online",
@@ -182,8 +182,21 @@
     "supportUrl": null
   },
   {
+    "name": "carriera-esc",
+    "profiles": ["esc.user"],
+    "available": true,
+    "status": {
+      "type": "online",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00630"
+  },
+  {
     "name": "stria",
-    "profiles": ["stria.user", "admin"],
+    "profiles": ["stria.user"],
     "available": true,
     "status": {
       "type": "online",
@@ -209,7 +222,7 @@
   },
   {
     "name": "notification-center",
-    "profiles": ["bardo.user", "admin"],
+    "profiles": ["bardo.user"],
     "available": true,
     "status": {
       "type": "online",
@@ -222,7 +235,7 @@
   },
   {
     "name": "task-center",
-    "profiles": [ "task.user", "admin"],
+    "profiles": ["task.user"],
     "available": true,
     "status": {
       "type": "online",
