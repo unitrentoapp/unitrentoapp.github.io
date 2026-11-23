@@ -1,0 +1,36 @@
+{
+  "app": {
+    "status": {
+      "type": "active",
+      "message": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "update": {
+      "currentVersion": "3.0.0",
+      "minVersion": "2.2.4",
+      "required": true,
+      "forceLogout": false
+    }
+  },
+  "customData": {
+    "academicYear": 2026,
+    "calendarSyncInstructionsUrl": "https://servicedesk.unitn.it/go/{lang}?kb=KB0010275",
+    "isee": {
+        "active": true,
+        "year": 2026
+    },
+    "support": {
+        "minLength": 10,
+        "maxLength": 2000
+    }
+  },
+  "endpoints": {
+    "baseApiUrl": "https://webapi.unitn.it/",    
+    "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00198"
+  },
+  "logger": {
+    "level": "WARN"
+  }
+}
