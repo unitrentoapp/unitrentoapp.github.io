@@ -134,10 +134,10 @@
     "profiles": [],
     "available": true,
     "status": {
-      "type": "online",
+      "type": "offline",
       "message": {
-        "it": "",
-        "en": ""
+        "it": "Temporaneamente non disponibile",
+        "en": "Temporarily not available"
       }
     },
     "supportUrl": "https://servicedesk.unitn.it/go/{lang}?s=S00247"
